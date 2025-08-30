@@ -1,0 +1,5 @@
+.env
+node_modules/
+.env.local
+gcloud_key.json
+gcloud_key
